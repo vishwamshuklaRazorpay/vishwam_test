@@ -5,7 +5,6 @@ with open('README.md') as readme:
 
 setup(
     name="vishwam_test",
-    version="1.0",
     description="squares the number",
     long_description=readme_content,
     long_description_content_type='text/markdown',
